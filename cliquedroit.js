@@ -5,4 +5,4 @@ $(document).bind("contextmenu",function()
 alert('Merci de respecter le travail du webmaster en ne copiant pas le contenu sans autorisation');
 return false;
 });
-// By WizzarCo.
+// By Mitannie
